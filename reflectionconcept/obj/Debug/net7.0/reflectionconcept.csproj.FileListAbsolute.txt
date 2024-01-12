@@ -1,0 +1,15 @@
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\bin\Debug\net7.0\reflectionconcept.exe
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\bin\Debug\net7.0\reflectionconcept.deps.json
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\bin\Debug\net7.0\reflectionconcept.runtimeconfig.json
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\bin\Debug\net7.0\reflectionconcept.dll
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\bin\Debug\net7.0\reflectionconcept.pdb
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\reflectionconcept.csproj.AssemblyReference.cache
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\reflectionconcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\reflectionconcept.AssemblyInfoInputs.cache
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\reflectionconcept.AssemblyInfo.cs
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\reflectionconcept.csproj.CoreCompileInputs.cache
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\reflectionconcept.dll
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\refint\reflectionconcept.dll
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\reflectionconcept.pdb
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\reflectionconcept.genruntimeconfig.cache
+C:\Users\Akash.sundaram\Desktop\INT00918\reflectionconcept\obj\Debug\net7.0\ref\reflectionconcept.dll
